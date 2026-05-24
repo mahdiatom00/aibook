@@ -1,1 +1,2 @@
 in this unit we're gonna learn git and this is temperory edit just for test
+first i learn about git init and then git configuration by git config --global user.mail "" & git config --global user.name ""
